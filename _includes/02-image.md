@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of North american P-51 Mustang](https://fstoppers.com/photo/293337)
