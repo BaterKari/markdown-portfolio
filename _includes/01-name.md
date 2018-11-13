@@ -1,3 +1,2 @@
 # Bater Kari
-
 ### Aviation Photographer
